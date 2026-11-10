@@ -1,0 +1,46 @@
+{
+  "latest": {
+    "version": "1.0.2",
+    "build": 3,
+    "date": "2026-11-09",
+    "apk": "downloads/sswac.apk",
+    "apk_32": "downloads/sswac-32bits.apk"
+  },
+  "entries": [
+    {
+      "version": "1.0.2",
+      "build": 3,
+      "date": "2026-11-09",
+      "changes": [
+        "Reservas: cada carrito se ve como una sola reserva con todos sus servicios, con el código como título.",
+        "Reservas: los filtros Confirmadas y Canceladas ya muestran sus reservas.",
+        "Comercial: nueva pestaña Ofertas con todas las ofertas comerciales, con búsqueda y filtro por estado.",
+        "Dashboard renovado: gráficos, evolución de los últimos 6 meses y filtro por periodo.",
+        "Nuevos colores de WAC y modo oscuro con todo el texto en blanco.",
+        "La barra inferior muestra el nombre de cada pestaña.",
+        "El logo de tu agencia ahora es tu avatar.",
+        "Novedades: en Perfil ves qué cambió en cada versión y puedes actualizar la app desde ella misma.",
+        "Perfil: apartado Desarrolladores con el enlace a Shirkasoft."
+      ]
+    },
+    {
+      "version": "1.0.1",
+      "build": 2,
+      "date": "2026-11-09",
+      "changes": [
+        "Dashboard para el administrador de la agencia.",
+        "Oferta comercial para el comercial, con los proveedores cancelados.",
+        "La reserva completa, agrupada por proveedor y con el estado de cada uno.",
+        "Se muestra el logo de la agencia."
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "build": 1,
+      "date": "2026-11-09",
+      "changes": [
+        "Primera versión: avisos, operaciones, reservas recientes y perfil."
+      ]
+    }
+  ]
+}
