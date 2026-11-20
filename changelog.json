@@ -1,0 +1,81 @@
+{
+  "latest": {
+    "version": "1.0.5",
+    "build": 7,
+    "date": "2026-11-20",
+    "apk": "downloads/sswac.apk",
+    "apk_32": "downloads/sswac-32bits.apk"
+  },
+  "entries": [
+    {
+      "version": "1.0.5",
+      "build": 7,
+      "date": "2026-11-20",
+      "changes": [
+        "Comercial: nueva pestaña Grupos con las ofertas de grupo, con búsqueda y filtro por estado.",
+        "Grupos: cada oferta muestra dónde está (borrador, en Reservas o con los proveedores confirmados), su hoja de precios, el plan de habitaciones y el rooming list por hotel.",
+        "Grupos: se ve el deadline y cuántos pax faltan para completar el grupo; estados nuevos (deadline vencido, grupo final en Reservas, para facturar, facturada).",
+        "Avisos nuevos de grupos: proveedores confirmados, deadline vencido sin completar, grupo final confirmado; y para Reservas, grupo final por confirmar y grupo que no se ejecuta."
+      ]
+    },
+    {
+      "version": "1.0.4",
+      "build": 6,
+      "date": "2026-11-17",
+      "changes": [
+        "Sin conexión la app sigue mostrando los datos guardados, con un aviso arriba hasta que vuelve la red.",
+        "Operaciones: las fotos hechas sin cobertura se guardan en el teléfono y se suben solas al volver la conexión.",
+        "Operaciones: nueva calificación Regular, entre Malo y Bueno.",
+        "Novedades: ya aparece el botón para descargar la versión nueva."
+      ]
+    },
+    {
+      "version": "1.0.3",
+      "build": 4,
+      "date": "2026-11-16",
+      "changes": [
+        "Operaciones: fotos del servicio. El operador sube hasta 5 fotos (cámara o galería) para mostrar que está en el lugar y el director las ve.",
+        "Operaciones: al completar, el operador califica el servicio del proveedor como malo, bueno o excelente (y puede cambiarlo después).",
+        "Operaciones: se ve la hora a la que hay que presentarse, aunque el proveedor no la haya dado.",
+        "Operaciones: una operación completada ya no se puede volver a poner en curso.",
+        "Avisos nuevos: cambio de hora de la operación, foto subida y servicio calificado como malo.",
+        "Comercial: aviso cuando Revenue marca la factura como pagada, para emitir el voucher."
+      ]
+    },
+    {
+      "version": "1.0.2",
+      "build": 3,
+      "date": "2026-11-09",
+      "changes": [
+        "Reservas: cada carrito se ve como una sola reserva con todos sus servicios, con el código como título.",
+        "Reservas: los filtros Confirmadas y Canceladas ya muestran sus reservas.",
+        "Comercial: nueva pestaña Ofertas con todas las ofertas comerciales, con búsqueda y filtro por estado.",
+        "Dashboard renovado: gráficos, evolución de los últimos 6 meses y filtro por periodo.",
+        "Nuevos colores de WAC y modo oscuro con todo el texto en blanco.",
+        "La barra inferior muestra el nombre de cada pestaña.",
+        "El logo de tu agencia ahora es tu avatar.",
+        "Novedades: en Perfil ves qué cambió en cada versión y puedes actualizar la app desde ella misma.",
+        "Perfil: apartado Desarrolladores con el enlace a Shirkasoft."
+      ]
+    },
+    {
+      "version": "1.0.1",
+      "build": 2,
+      "date": "2026-11-09",
+      "changes": [
+        "Dashboard para el administrador de la agencia.",
+        "Oferta comercial para el comercial, con los proveedores cancelados.",
+        "La reserva completa, agrupada por proveedor y con el estado de cada uno.",
+        "Se muestra el logo de la agencia."
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "build": 1,
+      "date": "2026-11-09",
+      "changes": [
+        "Primera versión: avisos, operaciones, reservas recientes y perfil."
+      ]
+    }
+  ]
+}
